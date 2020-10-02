@@ -33,6 +33,7 @@ function login_shell() {
 <html>
 <head>
 <title>IndoXploit</title>
+<meta name="robots" content="noindex">
 <style type="text/css">
 html {
 	margin: 20px auto;
